@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109183030538",
+    "project_id": "ali-taghiyev-final",
+    "storage_bucket": "ali-taghiyev-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109183030538:android:39c1f18a7abe09efbb56f3",
+        "android_client_info": {
+          "package_name": "com.alitaghiyev.alitaghiyevfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109183030538-o6dtue4shlqfvlu357j45d8kunb08gq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe43BjSQCnfajNJkdrWwLUKdN3AHAFWDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109183030538-o6dtue4shlqfvlu357j45d8kunb08gq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ali Taghiyev Final</string>
+
+    <string name="hesabin_yok_mu">Hesabın yok mu ? <font color='#5DCF62'>Kayıt Ol</font></string>
+    <string name="zaten_hesabim_var">Zaten hesabım var <font color='#5DCF62'>Giriş Yap</font></string>
+</resources>
